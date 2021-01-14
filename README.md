@@ -1,6 +1,6 @@
 # Homepage
 ## What?
-My resume website, created to show my skills and improve them.
+My resume [website](https://yaremenkom.github.io/homepage/), created to show my skills and improve them.
 ## How?
 - HTML
 - CSS
